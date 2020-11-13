@@ -1,0 +1,8 @@
+base:
+  debug: false
+database:
+  host: localhost
+  port: 5432
+  database: aiohttp_interview
+  user: aiohttp_interview
+  password: aiohttp_interview
